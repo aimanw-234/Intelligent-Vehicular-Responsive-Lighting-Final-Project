@@ -1,9 +1,9 @@
 ---Smart Street Light System---
 // Pin Definitions for IR Sensors (Inputs)
-const int IR1 = 2; //PIN 1
-const int IR2 = 3;
-const int IR3 = 4;
-const int IR4 = 5;
+const int IR1 = 2; //PIN 2
+const int IR2 = 3; //PIN 3
+const int IR3 = 4; //PIN 4
+const int IR4 = 5; //PIN 5
 
 // Pin Definition for LDR Sensor (Input)
 const int LDR_PIN = 7;
