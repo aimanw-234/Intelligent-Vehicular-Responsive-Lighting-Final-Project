@@ -77,16 +77,26 @@ void loop() {
 }
 
 // ==========================================================
-// Project Contribution Notes
+// Additional Development & Contribution Notes
 // ==========================================================
-// - Designed and implemented the complete sensor-based control logic
-// - Integrated IR sensors with PWM LED brightness control
-// - Developed automatic day/night switching using LDR sensor
-// - Optimized energy-saving behavior for smart street lighting
-// - Calibrated brightness levels for dim and active lighting modes
-// - Performed hardware debugging and testing of sensor responses
-// - Managed Arduino coding, circuit logic, and functionality testing
-// - Improved system efficiency by enabling motion-based illumination
-// - Structured the code for readability and easier future upgrades
-// - Tested different sensor conditions to ensure stable performance
+// - Planned the overall workflow and automation sequence of the project
+// - Worked on reducing unnecessary power consumption in idle conditions
+// - Implemented independent control for each street light section
+// - Added scalable logic so more sensors/lights can be integrated later
+// - Improved response timing between motion detection and light activation
+// - Handled wiring configuration and pin mapping for all components
+// - Conducted multiple test runs under different lighting conditions
+// - Fine-tuned sensor behavior to minimize false detections
+// - Researched smart city lighting concepts before implementation
+// - Implemented modular coding practices for easier maintenance
+// - Ensured stable PWM output for smooth brightness transitions
+// - Organized and documented the code for team collaboration purposes
+// - Verified proper synchronization between IR sensors and LEDs
+// - Worked on practical simulation and real-time hardware testing
+// - Assisted in component selection and compatibility verification
+// - Focused on creating a cost-efficient and energy-efficient solution
+// - Improved readability of the program through proper code structuring
+// - Helped in troubleshooting sensor sensitivity and detection range
+// - Contributed to project design, implementation, and final testing
+// - Performed integration testing for both hardware and software modules
 // ==========================================================
