@@ -1,3 +1,4 @@
+---Smart Street Light System---
 // Pin Definitions for IR Sensors (Inputs)
 const int IR1 = 2;
 const int IR2 = 3;
