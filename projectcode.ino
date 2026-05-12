@@ -75,3 +75,18 @@ void loop() {
     analogWrite(LED4, offBrightness);
   }
 }
+
+// ==========================================================
+// Project Contribution Notes
+// ==========================================================
+// - Designed and implemented the complete sensor-based control logic
+// - Integrated IR sensors with PWM LED brightness control
+// - Developed automatic day/night switching using LDR sensor
+// - Optimized energy-saving behavior for smart street lighting
+// - Calibrated brightness levels for dim and active lighting modes
+// - Performed hardware debugging and testing of sensor responses
+// - Managed Arduino coding, circuit logic, and functionality testing
+// - Improved system efficiency by enabling motion-based illumination
+// - Structured the code for readability and easier future upgrades
+// - Tested different sensor conditions to ensure stable performance
+// ==========================================================
